@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danilo\\Desktop\\JN MOURA\\Papelaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00248976-25B4-4880-B509-E1F824A854A2}|Papelaria\\Papelaria.csproj|c:\\users\\danilo\\desktop\\jn moura\\papelaria\\papelaria\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00248976-25B4-4880-B509-E1F824A854A2}|Papelaria\\Papelaria.csproj|solutionrelative:papelaria\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00248976-25B4-4880-B509-E1F824A854A2}|Papelaria\\Papelaria.csproj|c:\\users\\danilo\\desktop\\jn moura\\papelaria\\papelaria\\repositories\\sqlserver\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00248976-25B4-4880-B509-E1F824A854A2}|Papelaria\\Papelaria.csproj|solutionrelative:papelaria\\repositories\\sqlserver\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00248976-25B4-4880-B509-E1F824A854A2}|Papelaria\\Papelaria.csproj|c:\\users\\danilo\\desktop\\jn moura\\papelaria\\papelaria\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00248976-25B4-4880-B509-E1F824A854A2}|Papelaria\\Papelaria.csproj|solutionrelative:papelaria\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00248976-25B4-4880-B509-E1F824A854A2}|Papelaria\\Papelaria.csproj|c:\\users\\danilo\\desktop\\jn moura\\papelaria\\papelaria\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00248976-25B4-4880-B509-E1F824A854A2}|Papelaria\\Papelaria.csproj|solutionrelative:papelaria\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "produto.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\Desktop\\JN MOURA\\Papelaria\\Papelaria\\Models\\produto.cs",
+              "RelativeDocumentMoniker": "Papelaria\\Models\\produto.cs",
+              "ToolTip": "C:\\Users\\Danilo\\Desktop\\JN MOURA\\Papelaria\\Papelaria\\Models\\produto.cs",
+              "RelativeToolTip": "Papelaria\\Models\\produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T01:05:56.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\Desktop\\JN MOURA\\Papelaria\\Papelaria\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Papelaria\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Danilo\\Desktop\\JN MOURA\\Papelaria\\Papelaria\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Papelaria\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T00:58:19.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\Desktop\\JN MOURA\\Papelaria\\Papelaria\\Repositories\\SQLServer\\Produto.cs",
+              "RelativeDocumentMoniker": "Papelaria\\Repositories\\SQLServer\\Produto.cs",
+              "ToolTip": "C:\\Users\\Danilo\\Desktop\\JN MOURA\\Papelaria\\Papelaria\\Repositories\\SQLServer\\Produto.cs",
+              "RelativeToolTip": "Papelaria\\Repositories\\SQLServer\\Produto.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAwHoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:18:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\Desktop\\JN MOURA\\Papelaria\\Papelaria\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Papelaria\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Danilo\\Desktop\\JN MOURA\\Papelaria\\Papelaria\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Papelaria\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:15:51.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
